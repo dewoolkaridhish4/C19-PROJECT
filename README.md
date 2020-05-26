@@ -5,4 +5,4 @@ OUTPUT LINK
 
 
 
-https://github.com/dewoolkaridhish4/C20-PROJECT
+https://dewoolkaridhish4.github.io/C19-PROJECT/
